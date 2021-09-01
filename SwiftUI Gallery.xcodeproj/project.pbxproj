@@ -11,6 +11,7 @@
 		9ACFED4426E003250008B16F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACFED4326E003250008B16F /* ContentView.swift */; };
 		9ACFED4626E003250008B16F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ACFED4526E003250008B16F /* Assets.xcassets */; };
 		9ACFED4926E003250008B16F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ACFED4826E003250008B16F /* Preview Assets.xcassets */; };
+		9ACFED5026E003650008B16F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ACFED4F26E003650008B16F /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,8 @@
 		9ACFED4326E003250008B16F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9ACFED4526E003250008B16F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9ACFED4826E003250008B16F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9ACFED4F26E003650008B16F /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		9ACFED5126E003B90008B16F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +38,7 @@
 		9ACFED3526E003250008B16F = {
 			isa = PBXGroup;
 			children = (
+				9ACFED5126E003B90008B16F /* README.md */,
 				9ACFED4026E003250008B16F /* SwiftUI Gallery */,
 				9ACFED3F26E003250008B16F /* Products */,
 			);
@@ -52,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				9ACFED4126E003250008B16F /* SwiftUI_GalleryApp.swift */,
+				9ACFED4F26E003650008B16F /* Model.swift */,
 				9ACFED4326E003250008B16F /* ContentView.swift */,
 				9ACFED4526E003250008B16F /* Assets.xcassets */,
 				9ACFED4726E003250008B16F /* Preview Content */,
@@ -137,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ACFED5026E003650008B16F /* Model.swift in Sources */,
 				9ACFED4426E003250008B16F /* ContentView.swift in Sources */,
 				9ACFED4226E003250008B16F /* SwiftUI_GalleryApp.swift in Sources */,
 			);
