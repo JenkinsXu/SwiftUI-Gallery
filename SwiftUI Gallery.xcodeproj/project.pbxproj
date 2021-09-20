@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A5C375326F8F6D000E3FCD2 /* CoverImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CoverImage.png; sourceTree = "<group>"; };
 		9ACFED3E26E003250008B16F /* SwiftUI Gallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Gallery.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ACFED4126E003250008B16F /* SwiftUI_GalleryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_GalleryApp.swift; sourceTree = "<group>"; };
 		9ACFED4326E003250008B16F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,6 +39,7 @@
 		9ACFED3526E003250008B16F = {
 			isa = PBXGroup;
 			children = (
+				9A5C375326F8F6D000E3FCD2 /* CoverImage.png */,
 				9ACFED5126E003B90008B16F /* README.md */,
 				9ACFED4026E003250008B16F /* SwiftUI Gallery */,
 				9ACFED3F26E003250008B16F /* Products */,
